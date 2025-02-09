@@ -6,19 +6,20 @@ val meats = setOf("beef", "chicken")
 val fruits = setOf("apple", "orange", "banana", "kiwi")
 val vegetables = setOf("beans", "peas", "carrots", "sweet potatoes", "asparagus", "spinach")
 
-// countPercent
+fun countPercent(goods: Set<String>, groceryCart: Set<String>): Double =
+  ((groceryCart intersect goods).size/groceryCart.size.toDouble())*100
 
 fun percentMeat(groceryCart: Set<String>): Double =
-  TODO()
+  countPercent(meats, groceryCart)
 
 fun percentFruit(groceryCart: Set<String>): Double =
-  TODO()
+  countPercent(fruits, groceryCart)
 
 fun percentVeggies(groceryCart: Set<String>): Double =
-  TODO()
+  countPercent(vegetables, groceryCart)
 
 fun percentOther(groceryCart: Set<String>): Double =
-  TODO()
+  ((groceryCart - meats - fruits - vegetables).size / groceryCart.size.toDouble())*100
 
 fun main() {
   val groceryCart = setOf("apple", "pretzels", "bread", "orange", "beef",

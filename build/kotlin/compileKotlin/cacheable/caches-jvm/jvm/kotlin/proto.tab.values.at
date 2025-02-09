@@ -1,4 +1,21 @@
-3TaskKt
+rKtZippingWithNextKt
+"
+abstractClassesExercise1TaskKt
+"
+abstractClassesExercise2TaskKt
+"
+abstractClassesExercise3TaskKt
+8
+abstractclassesImplementationsKtPropertyAccessorKt
+ 
+abstractstateStateOfAClassKt
+
+
+atomictestAtomicTestKt
+*
+ baseClassInitializationExercise2TaskKt
+*
+ baseClassInitializationExercise3TaskKt
 :
 baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
 
@@ -835,19 +852,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     aultargumentsWithoutDefaultArgumentsKt
-"
-withoutsealedclasses
-UnSealedKt" *     classes
-UnSealedKt" *     KtReturnLocalKtTicketKtWithinInterfaceKt
-$
-nonNullAssertionsExercise1TaskKt
-$
-nonNullAssertionsExercise2TaskKt
-$
-nonNullAssertionsExercise3TaskKt
-L
-nothingtypeCheckObject2KtCheckObjectKtFailKtInfiniteLoopKtTodoKt
+UnSealedKt" *     finiteLoopKtTodoKt
  
 nullableTypesExercise1TaskKt
  
