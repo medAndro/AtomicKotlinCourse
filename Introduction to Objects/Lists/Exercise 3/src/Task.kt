@@ -3,7 +3,15 @@ package listsExercise3
 import atomictest.eq
 
 fun checkAnagrams(s1: String, s2: String): Boolean {
-  TODO()
+//  if (s1.length != s2.length) return false
+//  val checkS2 = s2.toMutableList()
+//  s1.forEach {
+//    if (checkS2.contains(it)) {
+//      checkS2.remove(it)
+//    }
+//  }
+//  return checkS2.isEmpty()
+  return s1.toList().sorted() == s2.toList().sorted()
 }
 
 fun main() {
