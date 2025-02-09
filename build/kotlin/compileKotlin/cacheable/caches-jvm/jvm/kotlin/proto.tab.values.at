@@ -1,6 +1,4 @@
-ClassInitializationExercise3TaskKt
-:
-baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+OtherConstructorsKt
 
 
 bigintegerBigIntKt
@@ -833,6 +831,9 @@ K
 withnullAverageIncomeWithNullKt
 4
 withoutdefaultargumentsWithoutDefaultArgumentsKt
+"
+withoutsealedclasses
+UnSealedKt" *     umentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
 UnSealedKt" *     sesExercise3TaskKt
