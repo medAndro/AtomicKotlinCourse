@@ -3,7 +3,7 @@ package variableArgumentListsExercise4
 import atomictest.eq
 
 fun flatten(listOfLists: List<List<String>>): List<String> {
-  TODO()
+  return listOfLists.flatten()
 }
 
 fun main() {
