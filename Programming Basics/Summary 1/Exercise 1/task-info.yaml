@@ -1,0 +1,24 @@
+type: output
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 63
+        length: 66
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 63
+        initialized_from_dependency: false
+        encrypted_possible_answer: NHP52zZVYiF17j4JSJaSG2O3uwD1Pfw01jTRvESph/sFrnqw6rK5u9K4jpNrLkP4bTxTjBb85wWiXPLWowl2jZqlFau2wcZ0U7GelH+0ttrZBz3h2nf7HenYgQxUdlOE
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/output.txt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Sat, 08 Feb 2025 19:37:21 UTC"
+record: -1

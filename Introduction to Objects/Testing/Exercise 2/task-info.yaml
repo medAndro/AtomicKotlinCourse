@@ -1,0 +1,34 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 128
+        length: 5
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 128
+        initialized_from_dependency: false
+        encrypted_possible_answer: V0Q6gqqvAlodHVm5jPkWNA==
+        selected: false
+        status: Solved
+      - offset: 149
+        length: 105
+        placeholder_text: TODO()
+        initial_state:
+          length: 6
+          offset: 151
+        initialized_from_dependency: false
+        encrypted_possible_answer: kTJ8qUzZkMRFXnktmD3Lb42jijZFy9BDkAWeBj0fHn+Wb2R58HJIP6tTgB4Qxal01sK7MbrS+3B0FFVR50whn/uiEch17Q9TEyyjT1yodu152/v/dULH+WNyk/WDgVP7DBBgVqwWy9CVLcGNh9WZxcVSnDzDORZqdOl2HBj9RdA=
+        selected: true
+        status: Solved
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Solved
+feedback:
+  message: 축하합니다!
+  time: "Sun, 09 Feb 2025 14:29:47 UTC"
+record: -1
