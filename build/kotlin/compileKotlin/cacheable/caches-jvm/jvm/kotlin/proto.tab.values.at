@@ -1,4 +1,9 @@
-tegerBigIntKt
+ClassInitializationExercise3TaskKt
+:
+baseclassinitGreatApe3KtHouseKtOtherConstructorsKt
+
+
+bigintegerBigIntKt
 
 booleansExercise1TaskKt
 
@@ -830,12 +835,7 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     nSealedKt" *     
-withoutsealedclasses
-UnSealedKt" *     es
-UnSealedKt" *     se2TaskKt
-
-innerClassesExercise3TaskKt
+UnSealedKt" *     sesExercise3TaskKt
 h
 innerclassesCounterFactoryKtHotelKtInnerClassInheritanceKtLocalInnerClassesKtQualifiedThisKt
 \
