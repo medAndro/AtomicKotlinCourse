@@ -17,7 +17,8 @@ class Cage(private val maxCapacity: Int) {
   val full: Boolean
     get() = hamsters.size == maxCapacity
 
-  /* add 'empty' property here */
+  val empty: Boolean
+    get() = hamsters.isEmpty()
 
   fun put(hamster: Hamster): Boolean =
     if (full)

@@ -1,4 +1,4 @@
-WhileControlKtWhileKtWhileLabeledKtWhileLoopKtWombatKtZeroArgumentsKtZipperKtZippingWithNextKt
+tValsKtValueFromMapKtVarsKtVisibleArgsKtWhileControlKtWhileKtWhileLabeledKtWhileLoopKtWombatKtZeroArgumentsKtZipperKtZippingWithNextKt
 "
 abstractClassesExercise1TaskKt
 "
@@ -852,18 +852,14 @@ K
 withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     gumentsWithoutDefaultArgumentsKt
+UnSealedKt" *     hDefaultArgumentsKt
+#
+withnullAverageIncomeWithNullKt
+4
+withoutdefaultargumentsWithoutDefaultArgumentsKt
 "
 withoutsealedclasses
-UnSealedKt" *     NullableParameterKt
-
-nullabletypesAmphibianKt
-
-numberTypesExercise1TaskKt
-
-numberTypesExercise2TaskKt
-
-numberTypesExercise3TaskKt
+UnSealedKt" *     TypesExercise3TaskKt
 
 numberTypesExercise4TaskKt
 
