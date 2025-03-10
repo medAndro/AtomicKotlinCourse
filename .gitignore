@@ -256,3 +256,23 @@ gradle-app.setting
 *.hprof
 
 # End of https://www.toptal.com/developers/gitignore/api/kotlin,intellij,java,jetbrains,gradle
+
+
+# Gradle 파일
+.gradle/
+/build/
+*/build/
+
+# 로컬 설정 파일
+local.properties
+
+# IntelliJ IDEA 파일
+*.iml
+.idea/
+
+# 키스토어 파일
+*.jks
+*.keystore
+
+# 로그 파일
+*.log
